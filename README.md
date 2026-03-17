@@ -17,5 +17,6 @@
 
 ### Connect With Me
 [LinkedIn](https://linkedin.com/in/wenjiexiao)  
+[Google Scholar](https://scholar.google.com/citations?user=2ezTO14AAAAJ&hl=en)  
 
 ---
