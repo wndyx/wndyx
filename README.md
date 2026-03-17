@@ -1,15 +1,16 @@
 # Hi, I'm Wendy 👋
 
 ### About Me
-- 🎓 I’m currently studying Computer Science and Applied Mathematics & Statistics @ Johns Hopkins University
-- 💻 I’m interested in back-end dev, Applied ML, and Research
+- 🎓 I’m currently studying **Computer Science + Applied Mathematics & Statistics** @ Johns Hopkins University
+- 💻 I’m interested in **back-end dev**, **Applied ML**, and **Research**
+- 🔧 Building projects across **medical AI**, **3D pose estimation**, and **streaming document clustering**
 
 ### Tech Stack
 **Languages:**  
 `C++` `Python` `Java` `JavaScript` `SQL`
 
 **Frameworks / Tools:**  
-`React` `Node.js` `Git` `MongoDB` `PyTorch`
+`React` `React` `Node.js` `Git` `MongoDB` `PyTorch` `Docker` `OpenCV` `Linux` `Hugging Face`
 
 ### Connect With Me
 [LinkedIn](https://linkedin.com/in/wenjiexiao)  
