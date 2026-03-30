@@ -3,7 +3,6 @@
 ### About Me
 - 🎓 I’m currently studying **Computer Science + Applied Mathematics & Statistics** @ Johns Hopkins University
 - 💻 I’m interested in **back-end dev**, **Applied ML**, and **Research**
-- 🔧 Building projects across **medical AI**, **3D pose estimation**, and **streaming document clustering**
 
 ### Tech Stack
 **Languages:**  
